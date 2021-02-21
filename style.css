@@ -97,10 +97,14 @@ i{
 h1{
     float:right;
     color:white;
-    margin-top:250px;
-    margin-right:50px;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top:200px;
+    margin-right:100px;
+    /* font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+
+    
     font-size:40px;
-    text-align: justify;
-    line-height: 3rem;
+    text-align: center;
+    line-height: 4rem;
 }
