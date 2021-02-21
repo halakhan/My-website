@@ -3,7 +3,7 @@
     padding:0;
 }
 .bodymwp{
-    background-image: url(./image/body3.jpg);
+    background-image: url(./image/container.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
@@ -14,7 +14,7 @@
 }
 .list{
     
-    margin-left:150px;
+    margin-left:50px;
 }
  .item{
      margin-top:25%;
@@ -24,7 +24,7 @@
  .item .link{
 
      color: white;
-     margin: 25px;
+     margin: 20px;
      padding: 15px;
      border: 4px solid white;
      border-radius: 10px;
