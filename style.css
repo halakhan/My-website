@@ -2,7 +2,7 @@
     margin:0;
     padding:0;
 }
-body{
+.bodymwp{
     background-image: url(./image/body3.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -42,4 +42,44 @@ body{
     
     color:#212529;
     transition: 0.5s;
+}
+.homepg{
+    background-color: white;
+
+}
+header{
+    height:12vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.navbar{
+    margin-left:35px;
+}
+.navbar .navitem{
+    display:inline-block
+
+}
+.navbar .navitem .navlink{
+    text-decoration: none;
+    text-transform: uppercase;
+    margin:10px;
+    font-size: 20px;
+    color:gray;
+}
+.logo{
+    text-transform: uppercase;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px;
+  
+    
+
+}
+.smaccs{
+    margin-right: 35px;
+}
+i{
+    margin: 10px;
+    
 }
