@@ -108,3 +108,84 @@ h1{
     text-align: center;
     line-height: 4rem;
 }
+.sec2{
+    display: flex;
+    height: 80vh;
+    width: 100vw;
+    background-color:#e0e2db;
+}
+.sec2 .img1{
+    height:80vh;
+    width:50vw;
+    background-image: url(./home/the\ c\ drops.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.sec2 .cont1{
+    height:80vh;
+    width:50vw;
+    
+}
+.sec2 .cont1 h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    text-transform: uppercase;
+    color:#606060;
+    font-weight: 400;
+    text-align: center;
+    margin-top:40%;
+}
+.sec3{
+    display: flex;
+    height: 80vh;
+    width: 100vw;
+    background-color:#e0e2db;
+}
+.sec3 .cont2{
+    height:80vh;
+    width:50vw;
+
+}
+.sec3 .cont2 h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    text-transform: uppercase;
+    color:#606060;
+    font-weight: 400;
+    text-align: center;
+    margin-top:40%;
+    font-size:27px;
+}
+.sec3 .img2{
+    background-image: url(./home/Luxury\ Beauty\ Serum.jpg);
+    height:80vh;
+    width:50vw;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.pgend{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    height:10vh;
+    
+}
+.wn{
+    color:#000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left:25px;
+}
+.hk{
+    color:#000000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    
+
+
+}
+
