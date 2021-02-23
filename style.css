@@ -207,3 +207,115 @@ h4{
     color:#606060;
 }
 
+
+.psec1{
+    margin-top:10px;
+    display: flex;
+    height: 80vh;
+    width: 100vw;
+}
+.psec1 .lbs{
+    height:80vh;
+    width:50vw;
+    background-image: url(./products/SJ_BodySerum_1080_3-1.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+.psec1 .lbscon{
+    height:80vh;
+    width:50vw;
+    
+}
+.psec1 .lbscon h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    text-transform: uppercase;
+    color:#606060;
+    font-weight: 400;
+    text-align: center;
+    
+    font-size:27px;
+    margin-top:20rem;
+   
+
+}
+.psec1 .lbscon p{
+    color:#606060;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:15px;
+    margin: 0px 5px 0px 5px;
+
+}
+.psec2{
+    margin-top:10px;
+    display: flex;
+    height: 80vh;
+    width: 100vw;
+
+}
+.psec2 .llc{
+    height:80vh;
+    width:50vw;
+    background-image: url(./products/Luxury-Lip-Cream-Saint-Jane-Beauty-1610407681_600x600.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.psec2 .llccon h6{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    text-transform: uppercase;
+    color:#606060;
+    font-weight: 400;
+    text-align: center;
+    
+    font-size:27px;
+    margin-top:20rem;
+}
+.psec2 .llccon p{
+    color:#606060;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:15px;
+    margin: 0px 5px 0px 5px;
+}
+.psec3{
+    margin-top:10px;
+    display: flex;
+    height: 80vh;
+    width: 100vw;
+
+}
+.psec3 .brc{
+    height:80vh;
+    width:50vw;
+    background-image: url(./products/brightrepairec.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+
+}
+.psec3 .brccon{
+    height:80vh;
+    width:50vw;
+
+
+}
+.psec3 .brccon .h7{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:25px;
+    margin-top:20rem;
+    text-transform: uppercase;
+    color:#606060;
+    font-weight: 400;
+    text-align: center;
+    align-items: center;
+}
+.psec3 .brccon p{
+    color:#606060;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:15px;
+   align-items: center;
+
+}
